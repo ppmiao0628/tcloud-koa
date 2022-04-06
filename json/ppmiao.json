@@ -1,0 +1,16 @@
+{
+  "retcode": "0",
+  "retmsg": "OK",
+  "bank_min_change": "1",
+  "bill_acc_num": "",
+  "bill_state": "1",
+  "stage_deny_code": "0",
+  "stage_fee": "",
+  "array": [
+    {
+      "bill_date": "20220404",
+      "total_fee": "2475475",
+      "unpay_fee": "2475475"
+    }
+  ]
+}
