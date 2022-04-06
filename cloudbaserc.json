@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "envId": "{{envId}}",
+  "envId": "cloudbase-prepaid-3eoo49ddb23dd4",
   "framework": {
     "name": "koa-starter",
     "plugins": {
